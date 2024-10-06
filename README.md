@@ -1,3 +1,3 @@
-# Castbar Clarity v0.2.0-preview
+# Castbar Clarity v0.3.0
 
 Add an outline to the castbar.
